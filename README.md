@@ -10,9 +10,9 @@ pandas - numpy - sklearn - catboost - optuna - TfidfVectorizer - SMOTETomek - se
 ## Состав проекта:
 | **Название файла**  | **Содержание**                            |
 |:--------------------|:------------------------------------------|
-| covers_v2.ipynb         | основной ноутбук с описанием проекта |
-| no ML solution.ipynb | ноутбук с альтернативным решением без обучения ML модели |
-| models/        | папка с обученными  моделями |
+| [covers_v2.ipynb](https://github.com/romauov/covers_finder/blob/main/covers_v2.ipynb)         | основной ноутбук с описанием проекта |
+| [no ML solution.ipynb](https://github.com/romauov/covers_finder/blob/main/no%20ML%20solution.ipynb) | ноутбук с альтернативным решением без обучения ML модели |
+| [models/](https://github.com/romauov/covers_finder/tree/main/models)        | папка с обученными  моделями |
 | datasets/ | папка с исполььзуемыми датасетами (отсутствует в репозитории)            |
-| cover_finder.py          | скрипт для поиска и выдачи похожих треков |
-| requirements.txt    | requirements.txt                          |
+| [cover_finder.py](https://github.com/romauov/covers_finder/blob/main/cover_finder.py)          | скрипт для поиска и выдачи похожих треков |
+| [requirements.txt](https://github.com/romauov/covers_finder/blob/main/requirements.txt)    | requirements.txt                          |
